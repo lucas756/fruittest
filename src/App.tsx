@@ -6,7 +6,6 @@ import Toolbar from '@mui/material/Toolbar';
 import CssBaseline from '@mui/material/CssBaseline';
 import Typography from '@mui/material/Typography';
 import IconButton from '@mui/material/IconButton';
-import MenuIcon from '@mui/material/Icon';
 import ShoppingCartIcon from '@mui/icons-material/ShoppingCart';
 import { Paper } from '@mui/material';
 
